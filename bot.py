@@ -57,7 +57,7 @@ def load_all_subjects():
         if questions:
             SUBJECTS[subject_name] = questions
     
-    print(f"✅ Yuklangan fanlar: {list(SUBJECTS.keys())}")
+    print(f"Yuklangan fanlar: {list(SUBJECTS.keys())}")
     
     # "Barchasidan" (Mixed) virtual subject qo'shish
     if len(SUBJECTS) > 1:
@@ -496,7 +496,7 @@ def main():
     proxy_url = os.getenv('PROXY_URL')
     
     if not token:
-        print("❌ BOT_TOKEN topilmadi!")
+        print("BOT_TOKEN topilmadi!")
         return
     
     request_kwargs = {
@@ -510,7 +510,7 @@ def main():
     if proxy_url and proxy_url.strip() and not proxy_url.startswith('#'):
         url = proxy_url.strip()
         if '://' in url:
-            print(f"🌐 Proxy ishlatilmoqda: {url}")
+            print(f"Proxy ishlatilmoqda: {url}")
             request_kwargs["proxy"] = url
         
     request = HTTPXRequest(**request_kwargs)
@@ -539,8 +539,8 @@ def main():
     app.add_handler(CallbackQueryHandler(section_callback, pattern="^sec_"))
     app.add_handler(PollAnswerHandler(poll_answer))
     
-    print(f"✅ Bot: {len(SUBJECTS)} ta fan yuklandi")
-    print("🚀 Bot ishga tushmoqda...")
+    print(f"Bot: {len(SUBJECTS)} ta fan yuklandi")
+    print("Bot ishga tushmoqda...")
     app.run_polling(allowed_updates=Update.ALL_TYPES, close_loop=False)
 
 if __name__ == "__main__":
