@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.git
+.gitignore
+# Do NOT ignore requirements.txt or bot.py as they are needed for the build

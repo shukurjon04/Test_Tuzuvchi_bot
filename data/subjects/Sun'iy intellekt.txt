@@ -1,0 +1,1506 @@
+++++ Sun’iy intellekt nima?
+==== # Odamlarga o‘xshash fikrlash va qaror qabul qilish qobiliyatiga ega tizimlar yaratish
+==== Odamlarga moslashgan dasturlarni yaratish
+==== Robotlar va boshqa qurilmalarni boshqarish uchun yozilgan barcha dasturlar
+==== Kompyuterlarda arifmetik hisoblashni avtomatlashtirish
+++++ Sun’iy intellektning asosiy maqsadi nima?
+==== # Inson aql-idrokiga o‘xshash muammolarni hal qiladigan tizimlar yaratish
+==== Faqat ma’lumotlarni saqlash
+==== Kompyuter tezligini oshirish
+==== Internet tezligini yaxshilash
+++++ Sun’iy intellekt atamasi birinchi marta qachon ishlatilgan?
+==== # 1956-yilda
+==== 1980-yilda
+==== 2000-yilda
+==== 1940-yilda
+++++ Sun’iy intellekt asoschisi kim?
+==== # John McCarthy
+==== Bill Gates
+==== Alan Turing
+==== Mark Zuckerberg
+++++ Sun’iy intellektning asosiy vazifasi nima?
+==== # Ma’lumotlardan o‘rganish va qaror qabul qilish
+==== Faqat matn yozish
+==== Kompyuterni yoqish
+==== Internetni ulash
+++++ Sun’iy intellekt qaysi qobiliyatni taqlid qiladi?
+==== # Inson aqlini
+==== Kompyuter xotirasini
+==== Grafikani
+==== Tezlikni
+++++ Sun’iy intellekt rivojlanish bosqichlari nimani bildiradi?
+==== # Sun’iy intellektning tarixiy taraqqiyotini
+==== Kompyuter turlarini
+==== Internet tezligini
+==== Telefon modellarini
+++++ Dastlabki sun’iy intellekt tizimlari nimaga asoslangan?
+==== # Qoidalar va mantiqiy xulosalarga
+==== Internetga
+==== Grafik dizaynga
+==== O‘yinlarga
+++++ Mashinali o‘rganish nima?
+==== # Kompyuterlarning ma’lumotlardan o‘rganish qobiliyati
+==== Dastur o‘rnatish
+==== Fayl yuklash
+==== Kompyuterni yoqish
+++++ Sun’iy intellektning zamonaviy yo‘nalishlaridan biri qaysi?
+==== # Chuqur o‘rganish (Deep Learning)
+==== Matn terish
+==== Kompyuter ta’mirlash
+==== Elektron pochta
+++++ Sun’iy intellekt qaysi sohalarda qo‘llaniladi?
+==== # Tibbiyot, moliya, ta’lim va transport
+==== Faqat o‘yinlarda
+==== Faqat maktabda
+==== Faqat dasturchilar uchun
+++++ Sun’iy intellektning kuchli tomoni nima?
+==== # Katta hajmdagi ma’lumotni tez tahlil qilish
+==== Elektr tejash
+==== Monitor rangini o‘zgartirish
+==== Kompyuterni o‘chirish
+++++ Sun’iy intellekt yordamida nima amalga oshiriladi?
+==== # Avtomatik qaror qabul qilish
+==== Fayl ochish
+==== Ekran tozalash
+==== Klaviatura sozlash
+++++ Ekspert tizimlar nimaga xizmat qiladi?
+==== # Mutaxassis bilimlariga asoslangan qaror chiqarishga
+==== O‘yin o‘ynashga
+==== Internetdan foydalanishga
+==== Musiqa tinglashga
+++++ Sun’iy intellekt tarixidagi muhim yutuq qaysi?
+==== # Kompyuter shaxmatda insonni yengishi
+==== Printer chiqishi
+==== Windows yaratilishi
+==== Internet ochilishi
+++++ Sun’iy intellektning asosiy komponenti nima?
+==== # Ma’lumotlar
+==== Sichqoncha
+==== Monitor
+==== Printer
+++++ Sun’iy intellekt nima qiladi?
+==== # Tahlil va bashorat
+==== Chop etish
+==== Saqlash
+==== Ko‘rsatish
+++++ Sun’iy intellekt rivojiga nima yordam berdi?
+==== # Katta ma’lumotlar va kuchli kompyuterlar
+==== Printer
+==== Klaviatura
+==== Kabel
+++++ Sun’iy intellekt etik muammolari nimaga taalluqli?
+==== # Xavfsizlik va inson huquqlariga
+==== Ranglarga
+==== Ekran hajmiga
+==== Printer tezligiga
+++++ Sun’iy intellekt kelajagi nimaga qaratilgan?
+==== # Inson hayotini qulay va samarali qilishga
+==== Faqat o‘yinlarga
+==== Faqat reklama qilishga
+==== Faqat telefonlarga
+++++ Intellektual tizim nima?
+==== # Bilimlarga asoslanib muammo yechadigan tizim
+==== Faqat ma’lumot saqlovchi dastur
+==== Oddiy kalkulyator
+==== Internet brauzer
+++++ Intellektual tizim arxitekturasi nimani bildiradi?
+==== # Tizimning ichki tuzilishi va qismlarining joylashuvi
+==== Faqat dizayni
+==== Kompyuter rangi
+==== Tarmoq tezligi
+++++ Intellektual tizimning eng muhim qismi qaysi?
+==== # Bilimlar bazasi
+==== Monitor
+==== Klaviatura
+==== Printer
+++++ Bilimlar bazasi nima?
+==== # Tizimdagi faktlar va qoidalar to‘plami
+==== Operatsion tizim
+==== Internet sahifalari
+==== Fayllar papkasi
+++++ Xulosa chiqarish mexanizmi vazifasi nima?
+==== # Bilimlar asosida qaror chiqarish
+==== Ma’lumot saqlash
+==== Grafik chizish
+==== Dastur o‘rnatish
+++++ Interfeys nima uchun kerak?
+==== # Foydalanuvchi bilan tizim o‘rtasida aloqa uchun
+==== Ma’lumotni yashirish uchun
+==== Elektrni tejash uchun
+==== Kompyuterni o‘chirish uchun
+++++ Intellektual tizim qanday ishlaydi?
+==== # Ma’lumotni tahlil qilib xulosa chiqaradi
+==== Faqat saqlaydi
+==== Faqat ko‘rsatadi
+==== Faqat chop etadi
+++++ Intellektual tizim qaysi turdagi bilimdan foydalanadi?
+==== # Formal va mantiqiy bilimlardan
+==== Faqat rasmli ma’lumotdan
+==== Faqat video
+==== Faqat ovoz
+++++ Qoidalar nimani bildiradi?
+==== # Agar–unda (IF–THEN) ko‘rinishidagi bilimlarni
+==== Fayl nomlarini
+==== Internet manzillarini
+==== Parollarni
+++++ Xulosa chiqarish mexanizmi qanday ishlaydi?
+==== # Qoidalar asosida natija hosil qiladi
+==== Fayllarni o‘chiradi
+==== Ranglarni o‘zgartiradi
+==== Kompyuterni yoqadi
+++++ Intellektual tizim foydalanuvchiga qanday yordam beradi?
+==== # Maslahat va qarorlar beradi
+==== Faqat yozadi
+==== Faqat rasm ko‘rsatadi
+==== Faqat musiqa chaladi
+++++ Ekspert tizim nima?
+==== # Mutaxassis bilimlariga asoslangan intellektual tizim
+==== O‘yin dasturi
+==== Internet sahifa
+==== Matn muharriri
+++++ Intellektual tizimlarda ma’lumot qayerda saqlanadi?
+==== # Bilimlar bazasida
+==== Monitor ichida
+==== Klaviaturada
+==== Printerda
+++++ Foydalanuvchi savolni qaysi qism orqali kiritadi?
+==== # Interfeys orqali
+==== Bilimlar bazasi orqali
+==== Xulosa mexanizmi orqali
+==== Server orqali
+++++ Intellektual tizim qanday qaror qabul qiladi?
+==== # Qoidalar va bilimlarga asoslanib
+==== Tasodifan
+==== Internetdan
+==== Grafik orqali
+++++ Intellektual tizimlarning oddiy misoli qaysi?
+==== # Maslahat beruvchi dastur
+==== Oddiy kalkulyator
+==== Rasm ko‘ruvchi
+==== Media pleer
+++++ Bilimlarni yangilash nimani anglatadi?
+==== # Bilimlar bazasini to‘ldirish yoki o‘zgartirish
+==== Dastur o‘chirish
+==== Kompyuterni o‘chirish
+==== Ekranni tozalash
+++++ Intellektual tizimlar nimaga mo‘ljallangan?
+==== # Murakkab muammolarni hal qilishga
+==== Faqat matn yozishga
+==== Faqat rasm chizishga
+==== Faqat o‘yin o‘ynashga
+++++ Arxitektura deganda nimani tushunamiz?
+==== # Tizim qismlarining qanday bog‘langanini
+==== Ranglar dizaynini
+==== Klaviatura turini
+==== Monitor o‘lchamini
+++++ Intellektual tizimning asosiy maqsadi nima?
+==== # To‘g‘ri va foydali qaror chiqarish
+==== Faqat tez ishlash
+==== Faqat chiroyli ko‘rinish
+==== Faqat ko‘p xotira
+++++ Bilimlarni taqdim etish nima?
+==== # Bilimlarni kompyuter tushunadigan shaklda ifodalash
+==== Ma’lumotni o‘chirish
+==== Fayl saqlash
+==== Rasm chizish
+++++ Mantiqiy yondashuv nimaga asoslanadi?
+==== # Qoidalar va mantiqiy xulosalarga
+==== Grafik dizaynga
+==== Ovozga
+==== Video tasvirga
+++++ Simvol usullari nimani bildiradi?
+==== # Bilimlarni belgilar orqali ifodalash
+==== Ranglar bilan ko‘rsatish
+==== Ovoz bilan ifodalash
+==== Rasm chizish
+++++ Propozitsion mantiq nimani ifodalaydi?
+==== # Rost yoki yolg‘on bo‘ladigan gaplarni
+==== Faqat raqamlarni
+==== Faqat rasmni
+==== Faqat tovushni
+++++ Predikat mantiqi nimani kengaytiradi?
+==== # Obyektlar va ularning xususiyatlarini
+==== Faqat ranglarni
+==== Faqat fayllarni
+==== Faqat tovushlarni
+++++ Mantiqiy taqdimotning afzalligi nima?
+==== # Aniq va formal xulosa chiqarish
+==== Chiroyli dizayn
+==== Tez chop etish
+==== Kam xotira ishlatish
+++++ Semantik tarmoq nima?
+==== # Tushunchalar va ularning aloqalarini grafik ko‘rinishda ifodalash
+==== Fayllar ro‘yxati
+==== Internet sahifasi
+==== Rasm muharriri
+++++ Semantik tarmoqlarda tugunlar nimani bildiradi?
+==== # Tushunchalarni
+==== Fayllarni
+==== Raqamlarni
+==== Ranglarni
+++++ Semantik tarmoqlarda bog‘lanishlar nimani bildiradi?
+==== # Tushunchalar o‘rtasidagi munosabatlarni
+==== Internet tezligini
+==== Ekran o‘lchamini
+==== Printer holatini
+++++ Freymlar nima?
+==== # Obyektlar haqidagi tuzilgan bilimlar modeli
+==== Video fayllar
+==== O‘yin oynasi
+==== Matn sahifasi
+++++ Freymlarda slotlar nimani bildiradi?
+==== # Obyekt xususiyatlarini
+==== Ranglarni
+==== Tugmalarni
+==== Ovozlarni
+++++ Ontologiya nima?
+==== # Tushunchalar va ularning o‘zaro bog‘liqliklarini rasmiy ifodalash
+==== Dastur oynasi
+==== Fayl turi
+==== Operatsion tizim
+++++ Ontologiyalar nimaga xizmat qiladi?
+==== # Bilimlarni tartibga solish va ulashishga
+==== Kompyuterni tezlashtirishga
+==== Rasm chizishga
+==== O‘yin o‘ynashga
+++++ Semantik usullarning afzalligi nimada?
+==== # Tushunchalar orasidagi munosabatlarni aniq ko‘rsatadi
+==== Kam elektr sarflaydi
+==== Kichik fayl yaratadi
+==== Rangli ko‘rsatadi
+++++ Mantiqiy va semantik yondashuvlar farqi nimada?
+==== # Biri formal qoidaga, biri munosabatlarga asoslanadi
+==== Ranglarda
+==== Tezlikda
+==== Hajmda
+++++ Simvol taqdimot nimaga qulay?
+==== # Murakkab bilimlarni ifodalashga
+==== Rasm chizishga
+==== Video yozishga
+==== Musiqa tinglashga
+++++ Qaysi usul avtomatik xulosa chiqarishga qulay?
+==== # Mantiqiy taqdimot
+==== Video
+==== Rasm
+==== Ovoz
+++++ Qaysi usul tushunchalar orasidagi aloqalarni ko‘rsatishda yaxshi?
+==== # Semantik tarmoqlar
+==== Matn fayllar
+==== Elektron jadvallar
+==== Rasm muharriri
+++++ Freymlar qaysi yondashuvga kiradi?
+==== # Semantik yondashuvga
+==== Fizik yondashuvga
+==== Elektron yondashuvga
+==== Mexanik yondashuvga
+++++ Turli taqdimot usullarini solishtirish nimaga kerak?
+==== # Eng mos usulni tanlash uchun
+==== Rangni tanlash uchun
+==== Ekranni sozlash uchun
+==== Dastur o‘chirish uchun
+++++ Qidiruv masalasi nima?
+==== # Muammoni holatlar fazosida yechim topish sifatida ifodalash
+==== Ma’lumotni saqlash
+==== Rasm chizish
+==== Matn yozish
+++++ Qidiruv algoritmlarining maqsadi nima?
+==== # Boshlang‘ich holatdan maqsad holatga yo‘l topish
+==== Fayl ochish
+==== Kompyuterni o‘chirish
+==== Internetga ulanish
+++++ Breadth-First Search (BFS) nimani anglatadi?
+==== # Kenglik bo‘yicha qidirish
+==== Chuqurlik bo‘yicha qidirish
+==== Tasodifiy qidirish
+==== Axborotli qidirish
+++++ BFS qanday ishlaydi?
+==== # Eng yaqin tugunlardan boshlab qidiradi
+==== Eng uzoqdan boshlaydi
+==== Tasodifiy yuradi
+==== Faqat bitta yo‘lni ko‘radi
+++++ BFS ning asosiy afzalligi nima?
+==== # Eng qisqa yo‘lni topishi
+==== Kam xotira ishlatishi
+==== Eng tez ishlashi
+==== Eng kam tugun ko‘rishi
+++++ Depth-First Search (DFS) nimani anglatadi?
+==== # Chuqurlik bo‘yicha qidirish
+==== Kenglik bo‘yicha qidirish
+==== Eng qisqa yo‘l
+==== Axborotli qidirish
+++++ DFS qanday ishlaydi?
+==== # Bitta yo‘l bo‘ylab chuqur ketib qidiradi
+==== Hammasini bir vaqtda ko‘radi
+==== Eng qisqa yo‘lni qidiradi
+==== Baholash funksiyasi ishlatadi
+++++ DFS ning asosiy afzalligi nima?
+==== # Kam xotira talab qilishi
+==== Har doim optimal bo‘lishi
+==== Har doim tez bo‘lishi
+==== Hech qachon adashmasligi
+++++ DFS ning kamchiligi nima?
+==== # Optimal yechimni topmasligi mumkin
+==== Juda ko‘p xotira talab qilishi
+==== Hech qachon tugamasligi
+==== Baholash funksiyasi yo‘q
+++++ A* algoritmi qanday turga kiradi?
+==== # Axborotlashtirilgan qidiruv
+==== Tasodifiy qidiruv
+==== Ko‘r-ko‘rona qidiruv
+==== Parallel qidiruv
+++++ A* algoritmi nimaga asoslanadi?
+==== # Xarajat va taxminiy bahoga
+==== Faqat chuqurlikka
+==== Faqat kenglikka
+==== Faqat tasodifga
+++++ A* algoritmida h(n) nimani bildiradi?
+==== # Maqsadgacha bo‘lgan taxminiy masofani
+==== Hozirgi masofani
+==== Boshlang‘ich masofani
+==== Tugun sonini
+++++ A* algoritmida g(n) nimani bildiradi?
+==== # Boshlang‘ichdan hozirgi tugungacha bo‘lgan xarajatni
+==== Maqsadgacha masofani
+==== Tasodifiy bahoni
+==== Xotira hajmini
+++++ A* algoritmida f(n) nimaga teng?
+==== # g(n) + h(n)
+==== g(n) − h(n)
+==== g(n) × h(n)
+==== g(n)
+++++ A* algoritmining afzalligi nimada?
+==== # Optimal va tez yechim topishi
+==== Eng kam xotira ishlatishi
+==== Hech qachon adashmasligi
+==== Eng sodda bo‘lishi
+++++ BFS va DFS ning asosiy farqi nimada?
+==== # BFS kenglikda, DFS chuqurlikda qidiradi
+==== Rangda
+==== Tezlikda
+==== O‘lchamda
+++++ Qaysi algoritm eng qisqa yo‘lni kafolatlaydi?
+==== # BFS
+==== DFS
+==== Tasodifiy qidiruv
+==== Har qanday algoritm
+++++ Qaysi algoritm kam xotira talab qiladi?
+==== # DFS
+==== BFS
+==== A*
+==== Hammasi
+++++ Qaysi algoritm baholash funksiyasidan foydalanadi?
+==== # A*
+==== BFS
+==== DFS
+==== Chuqurlik qidiruvi
+++++ Qidiruv algoritmlarini solishtirish nimaga kerak?
+==== # Muammo uchun eng mos algoritmni tanlashga
+==== Rangni tanlashga
+==== Ekran sozlashga
+==== Dastur o‘chirishga
+++++ Evristika nima?
+==== # Yechimni tez topishga yordam beruvchi taxminiy baholash
+==== Aniq matematik formula
+==== Fayl saqlash usuli
+==== Rasm chizish
+++++ Evristik qidirish nimaga xizmat qiladi?
+==== # Eng yaxshi yo‘lni tezroq topishga
+==== Barcha yo‘llarni ko‘rishga
+==== Faqat tasodifiy yurishga
+==== Hech qachon to‘xtamaslikka
+++++ Minimaks algoritmi qayerda qo‘llaniladi?
+==== # O‘yinlar nazariyasida
+==== Fayl tizimida
+==== Internetda
+==== Grafik dizaynda
+++++ Minimaks algoritmining maqsadi nima?
+==== # Eng yaxshi strategiyani topish
+==== Eng qisqa yo‘lni topish
+==== Eng katta faylni topish
+==== Eng tez kompyuterni topish
+++++ Minimaks algoritmi qanday ishlaydi?
+==== # Raqibning eng yaxshi yurishini hisobga olib qaror chiqaradi
+==== Tasodifiy yuradi
+==== Faqat hujum qiladi
+==== Faqat himoyalanadi
+++++ O‘yinlar nazariyasi nimani o‘rganadi?
+==== # Qarama-qarshi tomonlar o‘rtasidagi strategiyalarni
+==== Kompyuter tezligini
+==== Internet tarmog‘ini
+==== Grafik dizaynni
+++++ Alfa-beta kesish nimaga xizmat qiladi?
+==== # Keraksiz shoxlarni qidiruvdan chiqarib tashlashga
+==== Kompyuterni tezlashtirishga
+==== Xotirani tozalashga
+==== Grafikni chizishga
+++++ Alfa-beta kesishning asosiy foydasi nimada?
+==== # Hisoblashlarni kamaytirish
+==== Ranglarni yaxshilash
+==== O‘yin tezligini pasaytirish
+==== Xotirani to‘ldirish
+++++ Alfa-beta kesish qaysi algoritmni yaxshilaydi?
+==== # Minimaks algoritmini
+==== BFS algoritmini
+==== DFS algoritmini
+==== A* algoritmini
+++++ Evristik funksiya nimani baholaydi?
+==== # Holatning qanchalik yaxshi ekanini
+==== Rangini
+==== Hajmini
+==== Vaqtini
+++++ O‘yinlarda holat nima?
+==== # O‘yinning joriy vaziyati
+==== O‘yin nomi
+==== O‘yinchi ismi
+==== O‘yin vaqti
+++++ Strategiya deganda nima tushuniladi?
+==== # O‘yinda tanlanadigan harakatlar rejasi
+==== O‘yin dizayni
+==== Kompyuter tezligi
+==== Internet tezligi
+++++ Ikki o‘yinchili nol yig‘indili o‘yin nima?
+==== # Bitta yutug‘i ikkinchisining yutqazishiga teng bo‘lgan o‘yin
+==== Har ikki tomon yutadigan o‘yin
+==== Hech kim yutmaydigan o‘yin
+==== Tasodifiy o‘yin
+++++ Minimaks algoritmida MAX nimani bildiradi?
+==== # Eng katta foydani olishga intiluvchi o‘yinchini
+==== Eng kichik qiymatni
+==== Tasodifiy yurishni
+==== O‘yin oxirini
+++++ Minimaks algoritmida MIN nimani bildiradi?
+==== # Raqibning foydasini kamaytiruvchi o‘yinchini
+==== Eng katta foydani
+==== Baholash funksiyasini
+==== Vaqtni
+++++ Alfa-beta kesishda alfa nimani bildiradi?
+==== # MAX uchun eng yaxshi topilgan qiymatni
+==== Eng yomon qiymatni
+==== Tasodifiy sonni
+==== Vaqtni
+++++ Alfa-beta kesishda beta nimani bildiradi?
+==== # MIN uchun eng yaxshi topilgan qiymatni
+==== Eng katta vaqtni
+==== O‘yin sonini
+==== Holatlar sonini
+++++ Evristik qidirishning afzalligi nimada?
+==== # Tezroq va samaraliroq yechim topadi
+==== Har doim optimal bo‘ladi
+==== Eng ko‘p xotira ishlatadi
+==== Eng sekin ishlaydi
+++++ Evristik qidirishning kamchiligi nimada?
+==== # Har doim optimal yechimni bermasligi mumkin
+==== Hech qachon ishlamasligi
+==== Juda ko‘p xotira talab qilishi
+==== Juda sekin bo‘lishi
+++++ Evristik algoritmlar qayerda keng qo‘llaniladi?
+==== # O‘yinlar va strategik masalalarda
+==== Matn terishda
+==== Rasm chizishda
+==== Fayl saqlashda
+++++ Bilimlar bazasi nima?
+==== # Tizimdagi faktlar va qoidalar to‘plami
+==== Internet sahifalari
+==== Matn fayllari
+==== Grafik rasmlar
+++++ Bilimlar bazasi vazifasi nima?
+==== # Ma’lumotlarni saqlash va boshqarish
+==== Fayllarni o‘chirish
+==== Rasm chizish
+==== Klaviatura sozlash
+++++ Ekspert tizim nima?
+==== # Mutaxassis bilimlariga asoslangan intellektual tizim
+==== Oddiy kalkulyator
+==== Internet brauzer
+==== Video pleer
+++++ Ekspert tizimning asosiy vazifasi nima?
+==== # Foydalanuvchiga maslahat va qaror berish
+==== Fayl ochish
+==== Rasm chizish
+==== Musiqa chalish
+++++ Ekspert tizimning asosiy komponentlari qaysilar?
+==== # Bilimlar bazasi, xulosa chiqarish mexanizmi, interfeys
+==== Monitor, klaviatura, sichqoncha
+==== Internet, fayl, dastur
+==== Rasm, video, audio
+++++ Xulosa chiqarish mexanizmi nima qiladi?
+==== # Bilimlar bazasidagi ma’lumotdan natija chiqaradi
+==== Fayllarni saqlaydi
+==== Tasodifiy harakat qiladi
+==== Ranglarni o‘zgartiradi
+++++ Interfeys vazifasi nima?
+==== # Foydalanuvchi bilan tizim o‘rtasida aloqa yaratadi
+==== Ma’lumotlarni yashiradi
+==== Xotirani kamaytiradi
+==== Grafik chizadi
+++++ Amaliy ekspert tizim misoli qaysi?
+==== # Tibbiy diagnostika dasturi
+==== Oddiy kalkulyator
+==== Matn muharriri
+==== Musiqa pleer
+++++ Bilimlar bazasidagi qoidalar nimani ifodalaydi?
+==== # Agar–unda (IF–THEN) shaklidagi bilimlarni
+==== Ranglarni
+==== Fayl turlarini
+==== Klaviatura tugmalarini
+++++ Bilimlar bazasidagi faktlar nimani bildiradi?
+==== # Haqiqiy holatlarni va ma’lumotlarni
+==== Ranglarni
+==== Fayllarni
+==== Video fayllarni
+++++ Ekspert tizimlarning afzalligi nima?
+==== # Tez va ishonchli qaror chiqarish
+==== Har doim to‘liq optimal bo‘lish
+==== Faqat rasm chizish
+==== Internet tezligini oshirish
+++++ Ekspert tizimlarning kamchiligi nima?
+==== # Murakkab bilimlarni yangilash qiyin
+==== Hech qachon ishlamaydi
+==== Eng tez ishlaydi
+==== Ranglarni o‘zgartiradi
+++++ Xulosa chiqarish mexanizmi qanday ishlaydi?
+==== # Bilimlar bazasidagi qoidalar asosida natija chiqaradi
+==== Fayllarni o‘chiradi
+==== Tasodifiy ish bajaradi
+==== Rasmni ko‘rsatadi
+++++ Bilimlar bazasini yangilash nimaga yordam beradi?
+==== # Yangi bilimlarni qo‘shish va tizimni takomillashtirish
+==== Fayl o‘chirish
+==== Ranglarni o‘zgartirish
+==== Internet tezligini oshirish
+++++ Ekspert tizimlar qaysi sohalarda qo‘llaniladi?
+==== # Tibbiyot, moliya, ta’lim, sanoat
+==== Faqat o‘yinlarda
+==== Faqat rasm chizishda
+==== Faqat video pleerlarda
+++++ Ekspert tizimlarda foydalanuvchi savolni qayerga kiritadi?
+==== # Interfeys orqali
+==== Bilimlar bazasiga
+==== Xulosa mexanizmiga
+==== Monitor orqali
+++++ Bilimlar bazasining strukturasi qanday bo‘ladi?
+==== # Faktlar va qoidalardan tashkil topgan
+==== Rang va video fayllardan
+==== Audio va matndan
+==== Internet va fayllardan
+++++ Tizimning to‘g‘ri qaror chiqarishi nimaga bog‘liq?
+==== # Bilimlar bazasining to‘liqligi va xulosa mexanizmining ishlashiga
+==== Kompyuter tezligiga
+==== Monitor o‘lchamiga
+==== Klaviatura turiga
+++++ Amaliy ekspert tizim misoli qaysi?
+==== # Diagnostika tizimi yoki maslahat tizimi
+==== Oddiy kalkulyator
+==== Rasm muharriri
+==== Musiqa pleer
+++++ Ekspert tizimlarni qo‘llashdagi asosiy maqsad nima?
+==== # Murakkab muammolarni tez va ishonchli hal qilish
+==== Fayl saqlash
+==== Rasm chizish
+==== Video ko‘rsatish
+++++ Noaniqlik nima?
+==== # Ma’lumot yoki hodisaning aniq bo‘lmagan holati
+==== Fayl saqlash jarayoni
+==== Rasm chizish
+==== Matn tahrirlash
+++++ Noaniq sharoitda qaror qabul qilish nima?
+==== # Aniq bo‘lmagan ma’lumot asosida qaror chiqarish
+==== Faqat faylni saqlash
+==== Grafik chizish
+==== Internetga ulanish
+++++ Ehtimollik modeli nima?
+==== # Hodisalarning yuz berish ehtimolini ifodalovchi matematik model
+==== Matn fayllari
+==== Rasm fayllari
+==== Video fayllari
+++++ Ehtimollik modellaridan nima uchun foydalaniladi?
+==== # Noaniqlikni hisobga olib qaror qabul qilish uchun
+==== Fayl saqlash uchun
+==== Rangni tanlash uchun
+==== Video ko‘rsatish uchun
+++++ Bayes tarmog‘i nima?
+==== # Hodisalar o‘rtasidagi shartli ehtimolliklarni ifodalovchi grafik model
+==== Oddiy kalkulyator
+==== Internet sahifa
+==== Matn muharriri
+++++ Bayes tarmog‘ining tuzilishi nimadan iborat?
+==== # Tugunlar (hodisalar) va qirralar (munosabatlar)
+==== Ranglar va fayllar
+==== Klaviatura va monitor
+==== Video va audio
+++++ Bayes tarmog‘i qaysi matematik asosga ega?
+==== # Bayes qoidasi
+==== Newton qonuni
+==== Pifagor teoremasi
+==== Ohm qonuni
+++++ Bayes tarmog‘i qanday ishlaydi?
+==== # Tugunlar orasidagi shartli ehtimolliklarni hisoblab natija chiqaradi
+==== Fayl ochadi
+==== Rasm chizadi
+==== Musiqa chaladi
+++++ Bayes tarmog‘i nimaga xizmat qiladi?
+==== # Qaror qabul qilish va prognozlashga
+==== Fayl saqlashga
+==== Rasm chizishga
+==== Video ko‘rsatishga
+++++ Noaniqlikni ifodalashning afzalligi nima?
+==== # Haqiqiy dunyodagi hodisalarni yaxshiroq modellashtirish
+==== Rangni ko‘rsatish
+==== Fayl hajmini oshirish
+==== Video tezligini oshirish
+++++ Bayes tarmog‘idagi tugun nimani bildiradi?
+==== # Hodisa yoki o‘zgaruvchi
+==== Fayl turi
+==== Rang
+==== Klaviatura tugmasi
+++++ Bayes tarmog‘idagi qirra nimani bildiradi?
+==== # Hodisalar orasidagi shartli bog‘lanishni
+==== Faylni
+==== Rangni
+==== Monitor o‘lchamini
+++++ Bayes tarmog‘ida prognozlash nima qiladi?
+==== # Ma’lumotlar asosida ehtimolliklarni hisoblaydi
+==== Fayl saqlaydi
+==== Rasm chizadi
+==== Matn yozadi
+++++ Bayes tarmog‘ining afzalligi nimada?
+==== # Noaniq ma’lumot bilan ishlay oladi
+==== Faqat rasm chizadi
+==== Fayl ochadi
+==== Musiqa chaladi
+++++ Bayes tarmog‘i qayerda qo‘llaniladi?
+==== # Tibbiyot, moliya, sug‘urta, robototexnika
+==== Faqat o‘yinlarda
+==== Faqat matn tahririda
+==== Faqat video muharririda
+++++ Ehtimollik modellarining asosiy maqsadi nima?
+==== # Hodisalar yuz berish ehtimolini baholash
+==== Fayl ochish
+==== Internet tezligini oshirish
+==== Rasm chizish
+++++ Noaniq sharoitda qaror qabul qilishning asosiy qiyinchiligi nima?
+==== # To‘liq ma’lumot bo‘lmaganda to‘g‘ri qaror chiqarish
+==== Faylni saqlash
+==== Matn yozish
+==== Rasm chizish
+++++ Bayes tarmog‘ida shartli ehtimollik nimani bildiradi?
+==== # Bir hodisa boshqa hodisa yuz berishiga bog‘liq ehtimol
+==== Fayl hajmi
+==== Rang
+==== Video tezligi
+++++ Bayes tarmog‘i va klassik ehtimollik farqi nima?
+==== # Bayes shartli bog‘liqlikni hisoblaydi, klassik faqat mustaqil hodisalarni
+==== Rangda
+==== Faylda
+==== Internet tezligida
+++++ Bayes tarmog‘i prognozlashda qanday yordam beradi?
+==== # Noaniq ma’lumot asosida ehtimoliy natijalarni chiqaradi
+==== Fayl ochadi
+==== Rasm ko‘rsatadi
+==== Video pleer ishlatadi
+++++ Mashina o‘rganish nima?
+==== # Kompyuterlarning ma’lumotlardan o‘rganib natija chiqarish qobiliyati
+==== Oddiy kalkulyator
+==== Internet brauzer
+==== Matn muharriri
+++++ Mashina o‘rganishning asosiy maqsadi nima?
+==== # Ma’lumot asosida qarorlar yoki prognozlar chiqarish
+==== Fayl saqlash
+==== Rasm chizish
+==== Video ko‘rsatish
+++++ Mashina o‘rganishning asosiy yo‘nalishlaridan biri nima?
+==== # Supervised learning (nazoratli o‘rganish)
+==== Matn terish
+==== Rasm chizish
+==== Video tahriri
+++++ Supervised learning nima qiladi?
+==== # Belgilangan javoblar asosida modelni o‘rgatadi
+==== Fayl saqlaydi
+==== Tasodifiy ish bajaradi
+==== Rasm chizadi
+++++ Unsupervised learning nima qiladi?
+==== # Javobsiz ma’lumotlar asosida naqshlar yoki guruhlar aniqlaydi
+==== Fayl saqlaydi
+==== Internet tezligini oshiradi
+==== Video ko‘rsatadi
+++++ Reinforcement learning nima?
+==== # Agent atrof-muhit bilan o‘zaro ta’sir qilib mukofot asosida o‘rganadi
+==== Fayl ochadi
+==== Musiqa chaladi
+==== Ranglarni o‘zgartiradi
+++++ kNN algoritmi nima?
+==== # Eng yaqin qo‘shni namunalar asosida qaror chiqaruvchi algoritm
+==== Fayl saqlaydi
+==== Rasm chizadi
+==== Video ko‘rsatadi
+++++ Decision Tree algoritmi nima qiladi?
+==== # Ma’lumotlarni daraxt tuzilmasi orqali tasniflaydi
+==== Fayl saqlaydi
+==== Musiqa chaladi
+==== Ranglarni o‘zgartiradi
+++++ SVM (Support Vector Machine) nima uchun ishlatiladi?
+==== # Ma’lumotlarni ajratish va tasniflash uchun
+==== Fayl saqlash
+==== Rasm chizish
+==== Internet tezligini oshirish
+++++ Mashina o‘rganishda trening to‘plami nima?
+==== # Modelni o‘rganish uchun ishlatiladigan ma’lumotlar to‘plami
+==== Fayl turi
+==== Ranglar palitrasi
+==== Klaviatura tugmalari
+++++ Test to‘plami nima?
+==== # Modelni baholash uchun ishlatiladigan ma’lumotlar
+==== Fayl turi
+==== Video fayl
+==== Internet sahifasi
+++++ Supervised learningning afzalligi nima?
+==== # Aniqlik yuqori, natijasi aniq baholanadi
+==== Ranglar chiroyli
+==== Fayl hajmini kamaytiradi
+==== Tez ishlaydi
+++++ Unsupervised learningning afzalligi nima?
+==== # Belgilanmagan naqshlarni aniqlay oladi
+==== Fayl saqlaydi
+==== Video chizadi
+==== Internet tezligini oshiradi
+++++ Reinforcement learningning afzalligi nima?
+==== # Murakkab strategiyalarni o‘rganishga qulay
+==== Fayl ochadi
+==== Musiqa chaladi
+==== Rasm chizadi
+++++ Mashina o‘rganish qaysi sohalarda qo‘llaniladi?
+==== # Tibbiyot, moliya, transport, sanoat, robototexnika
+==== Faqat o‘yinlarda
+==== Faqat video muharririda
+==== Faqat matn tahririda
+++++ kNN algoritmining asosiy printsipi nima?
+==== # Eng yaqin qo‘shni namunalarni hisobga olish
+==== Fayl saqlash
+==== Rasm ko‘rsatish
+==== Internet tezligi
+++++ Decision Tree daraxtining tugunlari nimani bildiradi?
+==== # Savollar yoki qaror qoidalarini
+==== Fayl turlarini
+==== Ranglarni
+==== Klaviatura tugmalarini
+++++ SVM da "support vectors" nimani bildiradi?
+==== # Qaror chegarasini belgilovchi ma’lumot nuqtalari
+==== Fayl hajmini
+==== Rangni
+==== Video tezligini
+++++ Mashina o‘rganishning asosiy cheklovlari nima?
+==== # Katta ma’lumot va hisoblash resurslari talab qilishi
+==== Faqat rasm chizadi
+==== Musiqa chaladi
+==== Internet tezligini oshiradi
+++++ Mashina o‘rganish modelini baholash nimaga xizmat qiladi?
+==== # Modelning aniqligi va samaradorligini tekshirish
+==== Fayl saqlash
+==== Video ko‘rsatish
+==== Rasm chizish
+++++ Supervised learning nima?
+==== # Belgilangan javoblar asosida modelni o‘rgatish usuli
+==== Javobsiz ma’lumotlar bilan o‘rganish
+==== Tasodifiy ma’lumotlarni saqlash
+==== Rasm chizish
+++++ Supervised learningning asosiy maqsadi nima?
+==== # Ma’lumotlar asosida to‘g‘ri prognoz yoki tasniflash
+==== Fayl saqlash
+==== Ranglarni o‘zgartirish
+==== Video ko‘rsatish
+++++ Supervised learningda qanday vazifalar mavjud?
+==== # Klassifikatsiya va regressiya
+==== Klasterlash va o‘lchovlarni kamaytirish
+==== Faylni ochish
+==== Musiqa chalish
+++++ Klassifikatsiya vazifasi nima qiladi?
+==== # Ma’lumotlarni oldindan belgilangan sinflarga ajratadi
+==== Fayl saqlaydi
+==== Ranglarni chizadi
+==== Video ko‘rsatadi
+++++ Regressiya vazifasi nima qiladi?
+==== # Ma’lumotlardan uzluksiz qiymatlarni prognozlaydi
+==== Fayl saqlaydi
+==== Musiqa chaladi
+==== Rasm chizadi
+++++ Unsupervised learning nima?
+==== # Javobsiz ma’lumotlardan naqshlar yoki tuzilmalarni aniqlash
+==== Belgilangan javob bilan o‘rganish
+==== Fayl saqlash
+==== Video ko‘rsatish
+++++ Unsupervised learningning asosiy vazifalari qaysilar?
+==== # Klasterlash va o‘lchovlarni kamaytirish
+==== Klassifikatsiya va regressiya
+==== Fayl ochish
+==== Matn yozish
+++++ Klasterlash nima qiladi?
+==== # Ma’lumotlarni o‘xshashlik asosida guruhlaydi
+==== Fayl saqlaydi
+==== Ranglarni o‘zgartiradi
+==== Musiqa chaladi
+++++ O‘lchovlarni kamaytirish nima uchun ishlatiladi?
+==== # Ma’lumotlarning xususiyatlar sonini kamaytirib, tahlilni soddalashtirish
+==== Fayl saqlaydi
+==== Video ko‘rsatadi
+==== Rasm chizadi
+++++ Model sifatini baholash nima qiladi?
+==== # Modelning aniqligi va samaradorligini tekshiradi
+==== Fayl ochadi
+==== Rangni ko‘rsatadi
+==== Musiqa chaladi
+++++ Supervised learning misoli qaysi?
+==== # Elektron pochta spam filtrlash
+==== Ma’lumotlarni klasterlash
+==== O‘lchovlarni kamaytirish
+==== Video siqish
+++++ Unsupervised learning misoli qaysi?
+==== # Mijozlarni segmentlash
+==== Spam filtrlash
+==== Regressiya orqali prognoz
+==== Klassifikatsiya
+++++ Klassifikatsiyada qaysi algoritmlar ishlatiladi?
+==== # kNN, Decision Tree, SVM
+==== K-means, PCA
+==== Fayl tizimi
+==== Rasm chizish
+++++ Regressiyada qaysi algoritmlar ishlatiladi?
+==== # Linear Regression, Decision Tree Regression
+==== K-means, PCA
+==== Internet tezligini oshirish
+==== Musiqa chalish
+++++ Klasterlashda qaysi algoritm keng qo‘llaniladi?
+==== # K-means
+==== kNN
+==== SVM
+==== Linear Regression
+++++ O‘lchovlarni kamaytirishda qaysi usul ishlatiladi?
+==== # PCA (Principal Component Analysis)
+==== Decision Tree
+==== kNN
+==== SVM
+++++ Modelni baholashda qaysi ko‘rsatkichlar ishlatiladi?
+==== # Aniqlik (Accuracy), F1-score, MSE
+==== Ranglar
+==== Fayl hajmi
+==== Internet tezligi
+++++ Supervised learningning afzalligi nima?
+==== # Aniqlik yuqori va natija baholanishi mumkin
+==== Har doim optimal bo‘ladi
+==== Hech qachon xatolik qilmaydi
+==== Fayl saqlaydi
+++++ Unsupervised learningning afzalligi nima?
+==== # Belgilanmagan naqshlarni aniqlay oladi
+==== Fayl saqlaydi
+==== Musiqa chaladi
+==== Video ko‘rsatadi
+++++ Supervised va unsupervised learning farqi nima?
+==== # Supervisedda javoblar berilgan, unsupervisedda yo‘q
+==== Ranglarda
+==== Fayl hajmida
+==== Internet tezligida
+++++ Biologik neyron nima?
+==== # Inson yoki hayvon miyasidagi signal uzatuvchi hujayra
+==== Oddiy kalkulyator
+==== Kompyuter fayli
+==== Matn muharriri
+++++ Sun’iy neyron nima?
+==== # Biologik neyronni matematik model sifatida taqlid qiluvchi birlik
+==== Biologik hujayra
+==== Rasm fayli
+==== Video fayli
+++++ Sun’iy neyronning asosiy qismi nima?
+==== # Kirishlar, vaznlar, aktivatsiya funksiyasi va chiqish
+==== Fayl saqlash
+==== Rasm chizish
+==== Musiqa chalish
+++++ Perseptron nima?
+==== # Eng oddiy sun’iy neyron tarmog‘i
+==== Biologik neyron
+==== Matn fayli
+==== Video pleer
+++++ Perseptronning vazifasi nima?
+==== # Kirishlarni qayta ishlab chiqishni belgilangan sinfga tasniflash
+==== Fayl ochish
+==== Musiqa chalish
+==== Rasm ko‘rsatish
+++++ Neyron tarmog‘ini o‘qitish nima qiladi?
+==== # Xatoni kamaytirish orqali vaznlarni yangilaydi
+==== Fayl saqlaydi
+==== Ranglarni o‘zgartiradi
+==== Video ko‘rsatadi
+++++ Error backpropagation nima?
+==== # Xatoni tarmoq bo‘ylab orqaga tarqatib vaznlarni yangilash algoritmi
+==== Fayl saqlash
+==== Rasm chizish
+==== Musiqa chalish
+++++ Oddiy neyron tarmoqlarning cheklovi nima?
+==== # Murakkab nochiziqli funksiyalarni to‘liq o‘rganolmasligi
+==== Fayl saqlash
+==== Video ko‘rsatish
+==== Ranglarni o‘zgartirish
+++++ Sun’iy neyron tarmoqlar qaysi yo‘nalishda ishlatiladi?
+==== # Tasniflash, regressiya va prognozlash
+==== Fayl saqlash
+==== Rasm chizish
+==== Video ko‘rsatish
+++++ Kirish vazn nima qiladi?
+==== # Har bir kirish signali muhimligini belgilaydi
+==== Fayl saqlaydi
+==== Ranglarni o‘zgartiradi
+==== Video ko‘rsatadi
+++++ Aktivatsiya funksiyasi nima?
+==== # Neyron chiqishini belgilovchi matematik funksiya
+==== Fayl saqlaydi
+==== Musiqa chaladi
+==== Rasm chizadi
+++++ Neyron tarmog‘ining chiqishi nima?
+==== # Kirishlar va vaznlar asosida hisoblangan natija
+==== Fayl saqlaydi
+==== Rangni o‘zgartiradi
+==== Video ko‘rsatadi
+++++ Perseptron qaysi turdagi funksiyani o‘rganadi?
+==== # Chiziqli ajratuvchi funksiya
+==== Nochiziqli funksiya
+==== Tasodifiy funksiya
+==== Rang funksiya
+++++ Multiple Layer Perceptron (MLP) nima?
+==== # Bir nechta yashirin qatlamli neyron tarmoq
+==== Oddiy perceptron
+==== Biologik neyron
+==== Video pleer
+++++ Backpropagationning afzalligi nima?
+==== # Murakkab tarmoqlarni ham o‘qitish imkonini beradi
+==== Fayl saqlash
+==== Musiqa chalish
+==== Rasm chizish
+++++ Oddiy tarmoqlarning asosiy cheklovi qaysi?
+==== # Nochiziqli masalalarni yechishda yomon natija beradi
+==== Fayl saqlash
+==== Video ko‘rsatish
+==== Rangni o‘zgartirish
+++++ Sun’iy neyron tarmoqlar qaysi sohalarda qo‘llaniladi?
+==== # Tasvirni tanish, nutqni aniqlash, prognozlash
+==== Faqat o‘yinlarda
+==== Faqat video muharririda
+==== Fayl saqlash
+++++ Perseptron o‘qitilishi nima orqali amalga oshadi?
+==== # Vaznlarni yangilash orqali xatoni kamaytirish
+==== Fayl saqlash
+==== Rasm ko‘rsatish
+==== Musiqa chalish
+++++ Yashirin qatlam nima qiladi?
+==== # Kirish va chiqish o‘rtasida xususiyatlarni chiqaradi
+==== Fayl saqlash
+==== Video ko‘rsatish
+==== Rangni o‘zgartirish
+++++ Sun’iy neyron tarmoqlarni o‘qitishdagi maqsad nima?
+==== # Tarmoqning chiqishi to‘g‘ri natijaga moslashishini ta’minlash
+==== Fayl saqlash
+==== Rasm chizish
+==== Musiqa chalish
+++++ Chuqur o‘rganish nima?
+==== # Ko‘p qatlamli neyron tarmoqlar yordamida murakkab naqshlarni o‘rganish
+==== Oddiy kalkulyator
+==== Fayl saqlash
+==== Matn muharriri
+++++ Chuqur o‘rganishning asosiy maqsadi nima?
+==== # Murakkab tasniflash va prognozlash vazifalarini yechish
+==== Fayl saqlash
+==== Rasm chizish
+==== Video ko‘rsatish
+++++ CNN (Convolutional Neural Network) nima?
+==== # Tasvirni qayta ishlashga mo‘ljallangan chuqur neyron tarmoq
+==== Oddiy perceptron
+==== Biologik neyron
+==== Fayl saqlash
+++++ CNN arxitekturasi qaysi qatlamlardan iborat?
+==== # Konvolyutsion qatlam, pooling qatlam, to‘liq ulangan qatlam
+==== Fayl qatlamlari
+==== Matn qatlamlari
+==== Video qatlamlari
+++++ Konvolyutsion qatlam nima qiladi?
+==== # Kirish tasviridan xususiyatlarni chiqaradi
+==== Fayl saqlaydi
+==== Rasm chizadi
+==== Musiqa chaladi
+++++ Pooling qatlamining vazifasi nima?
+==== # Xususiyat xaritalarini siqib, hisoblashni kamaytiradi
+==== Fayl saqlash
+==== Rasm ko‘rsatish
+==== Internet tezligini oshirish
+++++ To‘liq ulangan qatlam nima qiladi?
+==== # CNNdan chiqqan xususiyatlarni yakuniy tasniflashga ishlatadi
+==== Fayl saqlaydi
+==== Musiqa chaladi
+==== Rasm chizadi
+++++ CNN qaysi sohalarda qo‘llaniladi?
+==== # Tasvirni tanish, video tahlil, yuzni aniqlash
+==== Fayl saqlash
+==== Matn tahririda
+==== Audio fayllarda
+++++ AlexNet nima?
+==== # 2012-yilda tasvirni tanishda yirik CNN modeli
+==== Oddiy perceptron
+==== Fayl tizimi
+==== Matn muharriri
+++++ ResNet nima?
+==== # Chuqur tarmoqlarda gradient yo‘qolishini kamaytiradigan tarmoq
+==== Oddiy perceptron
+==== Video pleer
+==== Rangli fayl
+++++ CNNda aktivatsiya funksiyasi nima qiladi?
+==== # Kirish signallarini non-lineer tarzda o‘zgartiradi
+==== Fayl saqlash
+==== Rasm chizadi
+==== Musiqa chaladi
+++++ Konvolyutsion yadrolar (filters) nimaga xizmat qiladi?
+==== # Tasvirdan xususiyatlarni ajratib olish
+==== Fayl saqlash
+==== Rasm ko‘rsatish
+==== Internet tezligini oshirish
+++++ Chuqur o‘rganish va oddiy neyron tarmoq farqi nima?
+==== # Chuqur tarmoq ko‘p qatlamli va murakkab naqshlarni o‘rganadi
+==== Ranglar bilan
+==== Fayl hajmi bilan
+==== Internet tezligi bilan
+++++ CNNning afzalligi nimada?
+==== # Tasvir va video tahlilida yuqori aniqlik
+==== Fayl saqlash
+==== Musiqa chalish
+==== Oddiy chiziqli masalalarni yechish
+++++ CNNning cheklovlari nima?
+==== # Ko‘p hisoblash resurslarini talab qiladi
+==== Ranglarni o‘zgartiradi
+==== Video ko‘rsatadi
+==== Fayl ochadi
+++++ Zamonaviy CNN modellaridan biri nima?
+==== # AlexNet
+==== Decision Tree
+==== kNN
+==== PCA
+++++ ResNetning asosiy g‘oyasi nima?
+==== # Residual bog‘lanishlar yordamida chuqur tarmoqni o‘rgatish
+==== Fayl saqlash
+==== Rasm chizish
+==== Musiqa chalish
+++++ CNNni o‘qitish uchun nima kerak?
+==== # Katta hajmdagi belgilanmagan yoki belgilangan tasvir ma’lumotlari
+==== Fayl saqlash
+==== Rasm ko‘rsatish
+==== Ranglar
+++++ Pooling turlari qaysilar?
+==== # Max pooling va average pooling
+==== Linear va nonlinear pooling
+==== Video va audio pooling
+==== Fayl va matn pooling
+++++ CNNni prognozlashda nima ishlatiladi?
+==== # Tasvirdan xususiyatlarni chiqarib, chiqishni hisoblash
+==== Fayl saqlash
+==== Musiqa chalish
+==== Rasm ko‘rsatish
+++++ Ketma-ket ma’lumotlar muammosi nima?
+==== # Vaqt yoki tartib bo‘yicha bog‘langan ma’lumotlarni qayta ishlash masalasi
+==== Ma’lumotlarni tasodifiy saqlash
+==== Statik tasvirlarni tahlil qilish
+==== Tasniflashsiz ma’lumotlarni guruhlash
+++++ RNN (Recurrent Neural Network) nima?
+==== # Ketma-ket ma’lumotlarni qayta ishlashga mo‘ljallangan neyron tarmoq
+==== Oddiy chiziqli regressiya
+==== Tasvirni tanish tarmog‘i
+==== Oddiy perceptron
+++++ RNNning asosiy afzalligi nima?
+==== # Oldingi holatlarni eslab, chiqishga ta’sir ko‘rsatadi
+==== Ma’lumotlarni xotirada saqlash
+==== Tasvirni yaxshiroq siqish
+==== Statistik natijalarni hisoblash
+++++ RNNning asosiy cheklovi nima?
+==== # Uzoq muddatli bog‘liqliklarni o‘rganishda qiyinchilik
+==== Eng kichik xatoni aniqlay olmaslik
+==== Faqat bitta qatlamda ishlash
+==== Matnni tasodifiy ajratish
+++++ LSTM nima?
+==== # Uzoq muddatli bog‘liqliklarni eslab qolish uchun maxsus RNN turi
+==== Oddiy perceptron
+==== Tasvirni tanish tarmog‘i
+==== Statik chiziqli model
+++++ LSTMning asosiy elementi nima?
+==== # Eshiklar (gates) orqali xotirani boshqarish
+==== Faoliyatsiz tugunlar
+==== Oddiy chiziqli qatlam
+==== Gradient kamaytiruvchi qatlam
+++++ NLP (Natural Language Processing) nima?
+==== # Kompyuter yordamida matn va nutqni qayta ishlash texnologiyasi
+==== Fayllarni tartibga solish
+==== Matnni faqat ko‘rsatish
+==== Tasvirlarni avtomatik tahrirlash
+++++ NLP qaysi sohalarda qo‘llaniladi?
+==== # Matn tasnifi, tarjima, chat-botlar, nutqni tanish
+==== Tasvirni segmentlash
+==== Audio fayllarni siqish
+==== Video oqimini optimallashtirish
+++++ RNN matnni qayta ishlashda nima qiladi?
+==== # Har bir so‘z yoki belgini ketma-ket o‘rganadi
+==== Faqat so‘zlarni tahlil qiladi
+==== Tasodifiy so‘zlarni ajratadi
+==== Barcha so‘zlarni bir vaqtning o‘zida hisoblaydi
+++++ LSTM matnni qayta ishlashda nima qiladi?
+==== # Uzoq kontekstni eslab, prognozlarni yaxshilaydi
+==== Faqat oxirgi so‘zni eslaydi
+==== So‘zlarni tasodifiy tartibda o‘rganadi
+==== Belgilangan natijani har doim chiqaradi
+++++ Transformer modeli nima?
+==== # Parallel ketma-ketlikni qayta ishlash va self-attention mexanizmi bilan ishlash
+==== Oddiy chiziqli regressiya
+==== CNN
+==== Statik perceptron
+++++ BERT modeli nima?
+==== # Pre-trained Transformer modeli bo‘lib, matn kontekstini tushunadi
+==== Oddiy perceptron
+==== RNN
+==== CNN
+++++ RNN va LSTM farqi nima?
+==== # LSTM uzoq bog‘liqlikni eslab qoladi, RNN qisqa muddatli xotiraga ega
+==== LSTM tezroq ishlaydi
+==== RNN ko‘proq qatlamli
+==== LSTM faqat tasvirlar bilan ishlaydi
+++++ NLPda tokenizatsiya nima qiladi?
+==== # Matnni so‘z yoki belgilar bo‘yicha bo‘lish
+==== Matnni faqat qisqartirish
+==== Tasvirlarni belgilash
+==== Matnni chiziqli o‘zgartirish
+++++ Self-attention mexanizmi nima qiladi?
+==== # Har bir tokenni boshqa tokenlarga bog‘lab kontekstni hisoblaydi
+==== So‘zlarni tasodifiy tartibda hisoblaydi
+==== Tokenlarni faqat ketma-ket qayta ishlaydi
+==== Belgilangan so‘zni ajratib beradi
+++++ RNN/LSTMning afzalligi nimada?
+==== # Ketma-ket va vaqt bog‘liq ma’lumotlarni o‘rganish
+==== Statik ma’lumotlar bilan ishlash
+==== Faqat tasvirlarni tahlil qilish
+==== Fayllarni saqlash
+++++ NLPning afzalligi nimada?
+==== # Kompyuter matn va nutqni tushunishi va ishlashi
+==== Tasvirlarni yaxshiroq ko‘rsatish
+==== Audio fayllarni siqish
+==== Video oqimini optimallashtirish
+++++ Zamonaviy NLP modellariga misol nima?
+==== # Transformer va BERT
+==== Decision Tree
+==== kNN
+==== Linear Regression
+++++ LSTM qaysi muammoni yechadi?
+==== # Uzoq muddatli bog‘liqlikni o‘rganish muammosini
+==== Statik ma’lumotlarni saqlash
+==== Fayl hajmini kamaytiradi
+==== Oddiy regressiyani hisoblaydi
+++++ NLP va RNN/LSTMni birlashtirishning maqsadi nima?
+==== # Matn va nutqni kontekstni hisobga olgan holda tahlil qilish
+==== Statik so‘zlarni tahlil qilish
+==== Tasodifiy tokenlarni guruhlash
+==== Belgilangan so‘zni faqat chiqarish
+++++ Kompyuter ko‘rishi nima?
+==== # Kompyuterga vizual ma’lumotlarni tushunish va tahlil qilish imkonini beruvchi texnologiya
+==== Tasvirlarni fayl sifatida saqlash
+==== Tasodifiy ranglarni generatsiya qilish
+==== Matnli hujjatlarni formatlash
+++++ Kompyuter ko‘rishning asosiy vazifasi nima?
+==== # Tasvir va videolardan foydali ma’lumotlarni aniqlash va qayta ishlash
+==== Rasm faylini siqish
+==== Grafika interfeysini yaratish
+==== Musiqa signalini vizualizatsiya qilish
+++++ Xususiyatlarni ajratib olish nima qiladi?
+==== # Tasvirdagi muhim elementlar yoki naqshlarni aniqlaydi
+==== Fayl formatlarini o‘zgartiradi
+==== Ranglarni arbitrer tarzda o‘zgartiradi
+==== Video oqimini kesib chiqadi
+++++ Ob’ektni aniqlash nima uchun ishlatiladi?
+==== # Tasvirdagi ma’lum ob’ektlarni aniqlash va ularni belgilash
+==== Tasvirga filtr qo‘llash
+==== Rang palitrasini o‘zgartirish
+==== Fayl nomini avtomatik berish
+++++ Sahnani aniqlash nima qiladi?
+==== # Tasvirning umumiy kontekstini va muhit tuzilishini tahlil qiladi
+==== Ranglarni histogram bilan o‘lchaydi
+==== Fayl hajmini hisoblaydi
+==== Video klip uzunligini belgilaydi
+++++ Kompyuter ko‘rish qaysi sohalarda qo‘llaniladi?
+==== # Tibbiyot, transport, xavfsizlik, robototexnika, sanoat
+==== Internet sahifalarni tartibga solish
+==== Matnni avtomatik tarjima qilish
+==== Audio fayllarni optimallashtirish
+++++ Tibbiyotda kompyuter ko‘rish qanday ishlatiladi?
+==== # Tibbiy tasvirlarni tahlil qilib kasalliklarni aniqlash
+==== Rasm fayllarni siqish
+==== Video oqimini optimallashtirish
+==== Musiqa fayllarni kategoriyalash
+++++ Transportda kompyuter ko‘rish qanday ishlatiladi?
+==== # Avtonom transport vositalari uchun yo‘l va ob’ektlarni aniqlash
+==== Rasmni filtrlar bilan bezash
+==== Video fayllarni birlashtirish
+==== Fayl nomlarini avtomatik yaratish
+++++ Xavfsizlikda kompyuter ko‘rish qanday ishlatiladi?
+==== # Kameralar orqali yuzni tanish va xavfli vaziyatlarni aniqlash
+==== Rangli tasvirlarni faqat filtr bilan o‘zgartirish
+==== Audio signallarni vizualizatsiya qilish
+==== Video formatini konvertatsiya qilish
+++++ Tasvirlarni qayta ishlash nima?
+==== # Tasvirdan foydali ma’lumotlarni ajratish, optimallashtirish va analiz qilish
+==== Rasm faylini kompyuterda saqlash
+==== Musiqa faylini kesish
+==== Fayl o‘lchamini kamaytirish
+++++ Edge detection nima qiladi?
+==== # Tasvirdagi ob’ekt chegaralarini aniqlash
+==== Ranglarni faqat o‘zgartirish
+==== Video oqimini tezlashtirish
+==== Fayl nomlarini tahrirlash
+++++ Thresholding nima qiladi?
+==== # Tasvirni segmentlarga yoki qora-oq shaklga ajratadi
+==== Fayl formatini o‘zgartirish
+==== Rang palitrasini tahlil qilmasdan o‘zgartirish
+==== Video klipni kesib olish
+++++ Tasvirni normalizatsiya qilish nima uchun kerak?
+==== # Rang va yorqinlik farqlarini kamaytirib, tahlilni soddalashtirish
+==== Fayl nomlarini avtomatik berish
+==== Audio signallarni vizualizatsiya qilish
+==== Video formatini optimallashtirish
+++++ Tasvirlarni segmentlash nima qiladi?
+==== # Tasvirdagi ob’ektlarni yoki mintaqalarni alohida guruhlarga ajratadi
+==== Faylni kompyuterga saqlash
+==== Video oqimini tezlashtirish
+==== Ranglarni aralashtirish
+++++ CNN kompyuter ko‘rishda nima vazifa bajaradi?
+==== # Tasvirdan xususiyatlarni chiqarib, ob’ektlarni aniqlaydi
+==== Faylni arxivlash
+==== Musiqa faylini generatsiya qilish
+==== Matnni tahlil qilish
+++++ Ob’ektni aniqlash algoritmlariga misol nima?
+==== # YOLO, SSD
+==== Linear Regression
+==== kNN
+==== PCA
+++++ Tasvirni qayta ishlashda afzallik nima?
+==== # Vizual ma’lumotlarni tez va aniqlik bilan tahlil qilish
+==== Audio fayl hajmini kamaytirish
+==== Video klip uzunligini o‘zgartirish
+==== Fayl nomlarini avtomatik yaratish
+++++ Ob’ektni aniqlashning asosiy qiyinchiligi nima?
+==== # Ob’ektlar turli burchak va yorqinlik sharoitida bo‘lishi
+==== Fayl hajmini kamaytirish
+==== Musiqa faylini segmentlash
+==== Video oqimini kesib chiqish
+++++ Feature map nima?
+==== # Konvolyutsion qatlamdan chiqqan xususiyat xaritasi
+==== Fayl formatini o‘zgartirish
+==== Matn faylini tahlil qilish
+==== Audio signalni o‘lchash
+++++ Zamonaviy kompyuter ko‘rish modellariga misol nima?
+==== # ResNet, VGG, EfficientNet
+==== kNN, Linear Regression
+==== Decision Tree
+==== PCA
+++++ Mustahkamlash orqali o‘rganish (RL) nima?
+==== # Agent atrof-muhit bilan o‘zaro ta’sir qilib mukofot asosida qaror qabul qiladigan o‘rganish usuli
+==== Statistik ma’lumotlarni regressiya bilan tahlil qilish
+==== Tasvirni segmentlash
+==== Matnni tasniflash
+++++ RL masalasini qo‘yish nima degani?
+==== # Agent, muhit va mukofot funksiyasini aniqlash orqali vazifani belgilash
+==== Fayl tizimini yaratish
+==== Video oqimini tahlil qilish
+==== Ranglarni optimallashtirish
+++++ Agent nima?
+==== # RL muhitida qaror qabul qiluvchi va harakat qiluvchi subyekt
+==== Tasvirni segmentlaydigan modul
+==== Matnni tahlil qiluvchi dastur
+==== Faylni saqlovchi tizim
+++++ Muhit nima?
+==== # Agent ishlayotgan va mukofot beradigan tashqi muhit
+==== Fayl tizimi
+==== Audio faylni qayta ishlash
+==== Matn faylini formatlash
+++++ Mukofot nima qiladi?
+==== # Agentning harakatlarini rag‘batlantiradi yoki kamaytiradi
+==== Fayl hajmini kamaytiradi
+==== Video klipni kesadi
+==== Rang palitrasini o‘zgartiradi
+++++ Q-learning algoritmi nima?
+==== # Q-qiymatlar jadvali orqali optimal harakat strategiyasini o‘rganadi
+==== Tasvirni segmentlaydi
+==== Matnni tarjima qiladi
+==== Fayl tizimini boshqaradi
+++++ Policy Gradient algoritmi nima qiladi?
+==== # Harakat siyosatini bevosita optimallashtirish orqali agentni o‘rgatadi
+==== Faylni kompyuterga saqlaydi
+==== Audio signallarni tahlil qiladi
+==== Video klipni siqadi
+++++ RL qaysi sohalarda qo‘llaniladi?
+==== # O‘yinlar, robototexnika, avtonom transport, sanoat jarayonlari
+==== Matnni tarjima qilish
+==== Fayl tizimini boshqarish
+==== Video tahririda
+++++ RL-da mukofot funksiyasining vazifasi nima?
+==== # Agentni maqsadga yo‘naltirish va o‘rganishni rag‘batlantirish
+==== Fayl nomlarini avtomatik yaratish
+==== Video oqimini tahlil qilish
+==== Audio faylni kesish
+++++ RL agenti nimani o‘rganadi?
+==== # Atrof-muhit bilan o‘zaro ta’sir orqali optimal harakatlarni
+==== Ranglarni aralashtirish
+==== Fayl hajmini kamaytirish
+==== Video formatini o‘zgartirish
+++++ Q-learning qanday tarzda optimal strategiyani topadi?
+==== # Q-qiymatlar jadvali orqali tajriba asosida yangilanadi
+==== Fayl formatini o‘zgartiradi
+==== Musiqa fayllarni tartiblaydi
+==== Rasm ranglarini optimallashtiradi
+++++ Policy Gradient algoritmining afzalligi nima?
+==== # Bevosita siyosatni optimallashtirib murakkab harakatlarni o‘rgatadi
+==== Fayl hajmini kamaytiradi
+==== Audio fayllarni kesadi
+==== Video oqimini tezlashtiradi
+++++ RLda eksploratsiya nima?
+==== # Agent yangi harakatlarni sinab ko‘rishi
+==== Faylni saqlash
+==== Tasvir ranglarini o‘zgartirish
+==== Video formatini konvertatsiya qilish
+++++ RLda ekspluatatsiya nima?
+==== # Agent avval o‘rgangan strategiyani ishlatishi
+==== Matnni tarjima qilish
+==== Audio signallarni siqish
+==== Rasmni optimallashtirish
+++++ Robototexnikada RL qanday ishlatiladi?
+==== # Robotlar harakatini optimal qilish va muhitga moslashish
+==== Fayl tizimini boshqarish
+==== Video oqimini tahlil qilish
+==== Rang palitrasini o‘zgartirish
+++++ O‘yinlarda RL qanday qo‘llaniladi?
+==== # Agentlarni strategik qaror qabul qilishga o‘rgatish
+==== Fayl saqlash
+==== Musiqa faylini chalaydi
+==== Video faylni kesadi
+++++ RLning asosiy qiyinchiligi nima?
+==== # Mukofot kechikishi va noaniqlik bilan ishlash
+==== Fayl formatini aniqlash
+==== Ranglarni arbitrer tarzda o‘zgartirish
+==== Video oqimini kompress qilish
+++++ RL agentining maqsadi nima?
+==== # Umumiy mukofotni maksimal qilish
+==== Fayl hajmini kamaytirish
+==== Matn faylini optimallashtirish
+==== Video klip uzunligini belgilash
+++++ RLni o‘qitishda feedback nima vazifa bajaradi?
+==== # Agentga xato yoki to‘g‘ri harakatni ko‘rsatib o‘rganishni yo‘naltiradi
+==== Fayl tizimini boshqaradi
+==== Video oqimini tezlashtiradi
+==== Audio faylni segmentlaydi
+++++ RLni zamonaviy amaliyotlarda qo‘llashning afzalligi nima?
+==== # Murakkab va o‘zgaruvchan muhitlarda agentlarni samarali o‘rgatish
+==== Fayl saqlash
+==== Video klip uzunligini belgilash
+==== Matnni faqat ko‘rsatish
+++++ Intellektual agent nima?
+==== # Atrof-muhit bilan o‘zaro ta’sir qilib maqsadga muvofiq qaror qabul qiladigan tizim
+==== Faylni saqlash dasturi
+==== Audio fayllarni o‘zgartirish vositasi
+==== Video oqimini tahlil qiluvchi modul
+++++ Intellektual agentning vazifasi nima?
+==== # Ma’lumotni tahlil qilib, optimal harakatni tanlash
+==== Rasm ranglarini o‘zgartirish
+==== Fayl formatini konvertatsiya qilish
+==== Musiqa faylini chalaydi
+++++ Agent turlari qaysilar?
+==== # Reaktiv agent va maqsadli agent
+==== Faylni saqlash agenti
+==== Audio oqim agenti
+==== Video filtr agenti
+++++ Reaktiv agent nima qiladi?
+==== # Atrof-muhit holatiga tez javob beruvchi agent
+==== Faylni avtomatik saqlaydi
+==== Video klipni optimallashtiradi
+==== Rang palitrasini o‘zgartiradi
+++++ Maqsadli agent nima qiladi?
+==== # Maqsadni hisobga olib harakatlarni rejalashtiradi
+==== Fayl hajmini kamaytiradi
+==== Audio faylni tahlil qiladi
+==== Video oqimini kesadi
+++++ Ko‘p agentli tizim nima?
+==== # Bir nechta agentlarning o‘zaro ta’siri bilan ishlaydigan tizim
+==== Fayl tizimi
+==== Musiqa fayllarni aralashtiruvchi modul
+==== Video oqimini tezlashtiruvchi modul
+++++ Ko‘p agentli tizimlarda o‘zaro ta’sir nima uchun muhim?
+==== # Agentlar bir-biriga moslashib, resurslarni samarali ishlatadi
+==== Fayl hajmini kamaytiradi
+==== Video klipni kesadi
+==== Rang palitrasini o‘zgartiradi
+++++ Agentlar o‘zaro qanday ta’sir qiladi?
+==== # Hamkorlik yoki raqobat orqali maqsadlarni amalga oshiradi
+==== Fayl tizimini boshqarish
+==== Audio fayllarni aralashtirish
+==== Video formatini optimallashtirish
+++++ Ko‘p agentli tizimga misol nima?
+==== # Avtonom dronlar guruhi
+==== Fayl saqlash dasturi
+==== Musiqa tahrirlash dasturi
+==== Video oqimini ko‘rsatish modul
+++++ Reaktiv agentning afzalligi nima?
+==== # Tez va sodda qaror qabul qila oladi
+==== Fayl hajmini kamaytiradi
+==== Video oqimini optimallashtiradi
+==== Ranglarni o‘zgartiradi
+++++ Maqsadli agentning afzalligi nima?
+==== # Murakkab vazifalarni reja asosida hal qiladi
+==== Fayl formatini o‘zgartiradi
+==== Musiqa fayllarni tahlil qiladi
+==== Video oqimini kesadi
+++++ Ko‘p agentli tizimning afzalligi nima?
+==== # Murakkab muhitlarda bir nechta agent bilan samarali ishlash
+==== Faylni saqlash
+==== Audio faylni o‘zgartirish
+==== Video klip uzunligini kamaytirish
+++++ Agent nima asosida qaror qabul qiladi?
+==== # Atrof-muhit holati va maqsadlar
+==== Fayl nomi
+==== Video klip formati
+==== Rang palitrasi
+++++ Ko‘p agentli tizimlar qaysi sohalarda ishlatiladi?
+==== # Robototexnika, transport, ishlab chiqarish, simulyatsiyalar
+==== Fayl tizimi
+==== Video tahrir dasturi
+==== Audio signallar
+++++ Agentlarning o‘zaro raqobati nima keltirib chiqaradi?
+==== # Resurslar samarali taqsimlanishi yoki optimal strategiya tanlanishi
+==== Fayl hajmi kamayadi
+==== Video oqimi tezlashadi
+==== Ranglar o‘zgaradi
+++++ Kooperativ agentlar nima qiladi?
+==== # Birgalikda maqsadga erishish uchun hamkorlik qiladi
+==== Faylni saqlaydi
+==== Audio faylni chalaydi
+==== Video klipni kesadi
+++++ Nol-samarali agent nima?
+==== # Atrof-muhitga moslashmaydigan va maqsadga erisha olmaydigan agent
+==== Fayl formatini o‘zgartiradi
+==== Video oqimini optimallashtiradi
+==== Musiqa faylini tahlil qiladi
+++++ Ko‘p agentli tizimlarda konfliktni hal qilish nima qiladi?
+==== # Agentlar o‘rtasidagi raqobat va nizolarni muvofiqlashtiradi
+==== Faylni arxivlaydi
+==== Audio signalni o‘zgartiradi
+==== Video oqimini kesadi
+++++ Agent tizimlarida qaror qabul qilish strategiyalari qaysilar?
+==== # Qoidaga asoslangan, o‘rganishga asoslangan va maqsadga asoslangan strategiyalar
+==== Fayl formatini optimallashtirish
+==== Video oqimini tezlashtirish
+==== Musiqa faylini generatsiya qilish
+++++ Intellektual agentning asosiy komponenti nima?
+==== # Sensorlar, effektorlar va qaror qabul qilish mexanizmi
+==== Fayl tizimi
+==== Audio tahlil modul
+==== Video oqim moduli
+++++ Ko‘p agentli tizimlarda sinxronizatsiya nima vazifa bajaradi?
+==== # Agentlar harakatlarini va ma’lumot almashinishini muvofiqlashtiradi
+==== Fayl nomini belgilaydi
+==== Video formatini o‘zgartiradi
+==== Rang palitrasini optimallashtiradi
+
