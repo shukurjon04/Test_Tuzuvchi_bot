@@ -6,8 +6,23 @@ from telegram.ext import Application, CommandHandler, PollAnswerHandler, Callbac
 from telegram.request import HTTPXRequest
 import glob
 from dotenv import load_dotenv
+from aiohttp import web
 
 load_dotenv()
+
+# --- Health Check Server ---
+async def health_check(request):
+    return web.Response(text="Bot is running")
+
+async def run_health_check_server():
+    port = int(os.environ.get("PORT", 8080))
+    app = web.Application()
+    app.router.add_get("/", health_check)
+    runner = web.AppRunner(app)
+    await runner.setup()
+    site = web.TCPSite(runner, "0.0.0.0", port)
+    print(f"Health check server starting on port {port}...")
+    await site.start()
 
 def parse_tests(filename):
     questions = []
@@ -541,6 +556,11 @@ def main():
     
     print(f"Bot: {len(SUBJECTS)} ta fan yuklandi")
     print("Bot ishga tushmoqda...")
+    
+    # Run health check server and bot
+    loop = asyncio.get_event_loop()
+    loop.create_task(run_health_check_server())
+    
     app.run_polling(allowed_updates=Update.ALL_TYPES, close_loop=False)
 
 if __name__ == "__main__":
